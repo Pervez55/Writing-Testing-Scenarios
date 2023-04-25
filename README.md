@@ -1,1 +1,1 @@
-# Writing-Testing-Scenarios
+# Writing-Test-Scenarios
